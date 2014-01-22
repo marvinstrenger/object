@@ -1,0 +1,20 @@
+{
+  "name": "object",
+  "main": "object.js",
+  "version": "1.0.0",
+  "authors": [
+    "Marvin Strenger <strenger@freshcells.de>"
+  ],
+  "description": "work around for IE to handle Object.create",
+  "license": "MIT",
+  "homepage": "http://www.freshcells.de",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js",
+    "test",
+    "tests"
+  ]
+}
